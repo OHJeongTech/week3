@@ -2,7 +2,7 @@
 
 void say_hello(void)
 {
-    printf("Hello!");
+    printf("konnichiwa");
     return ;
 }
 int main(void){
