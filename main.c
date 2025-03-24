@@ -2,7 +2,7 @@
 
 void say_hello(void)
 {
-    printf("Hello!");
+    printf("Hi hallo");
     return ;
 }
 int main(void){
